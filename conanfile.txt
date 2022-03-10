@@ -1,0 +1,7 @@
+[requires]
+gtest/1.11.0
+sfml/2.5.1
+
+[generators]
+cmake
+
